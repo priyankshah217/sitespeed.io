@@ -1,7 +1,9 @@
 ## Thank you!
 * * *
-sitespeed.io is built on top of three fantastic tools/products, thank you guys for building them:
+Sitespeed.io is built upon a couple Open Source tools, massive love to those projects:
 
-* *Steve Souders*, *Stoyan Stefanov* & *Marcel Duran* (and all others that have been involved) - [YSlow](https://github.com/marcelduran/yslow/)
-* *Ariya Hidayat* - [PhantomJS](https://github.com/ariya/phantomjs)
-* *Mark Otto* and *Jacob Thornton* - [Bootstrap](https://github.com/twbs/bootstrap/)
+ * [Selenium](http://www.seleniumhq.org/)
+ * [TSProxy](https://github.com/WPO-Foundation/tsproxy)
+ * [PerfCascade](https://github.com/micmro/PerfCascade)
+ * [Skeleton](http://getskeleton.com)
+ * [Simple crawler](https://github.com/cgiffard/node-simplecrawler)

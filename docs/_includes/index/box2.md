@@ -1,6 +1,6 @@
-## Performance budget
+## Be a performance hero!
 * * *
-You can test your performance budget using your CLI, use the [GruntJS plugin](https://www.npmjs.com/package/grunt-sitespeedio) or the TAP/JUnit XML output in your continuous integration server to make sure that you are not breaking your budgets.
 
-[![Performance budget example]({{site.baseurl}}/img/perfbudget.png)](/documentation/performance-budget/)
-{: .img-thumbnail}
+<img src="img/pippi.png" class="pull-left img-big" alt="Sitespeed.io logo" width="180" height="151">
+
+With sitespeed.io it's easy to be a performance hero! Check out our [example dashboard](https://dashboard.sitespeed.io), it's the best example that shows you what you can do.

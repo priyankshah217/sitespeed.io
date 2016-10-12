@@ -19,6 +19,10 @@ footer h3 {
 float: left!important;
 }
 
+.pull-right {
+float: right!important;
+}
+
 .img-big {
 margin-right: 20px;
 }

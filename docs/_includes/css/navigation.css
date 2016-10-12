@@ -53,6 +53,12 @@ font-size: 18px;
 max-width: 250px;
 }
 
+.nav li ul {
+  position: absolute;
+  display: none;
+  width: inherit;
+}
+
 @media screen and (min-width: 820px) {
 
   body
@@ -108,5 +114,21 @@ max-width: 250px;
     margin: 0;
     background-color: #0095d2;
   }
+
+  /* Sub Menus */
+    .nav li ul {
+      position: absolute;
+      display: none;
+      width: inherit;
+    }
+
+    .nav li:hover ul {
+      display: block;
+    }
+
+    .nav li ul li {
+      display: block;
+      float: none;
+    }
 
 }

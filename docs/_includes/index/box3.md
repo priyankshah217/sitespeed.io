@@ -1,3 +1,3 @@
-## Real browsers
+## Docker to the rescue!
 * * *
-Fetching timings will use the browsers on your machine. That is cool because you will then be able to test with the latest released versions. Today we support [Chrome & Firefox](/documentation/browsers/).
+Use our [Docker containers](https://hub.docker.com/u/sitespeedio/) to get an environment with Firefox, Chrome, XVFB and sitespeed.io up in a couple of minutes.

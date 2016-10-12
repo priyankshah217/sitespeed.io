@@ -1,3 +1,8 @@
-## WebPageTest
+## Why we love sitespeed.io
 * * *
-Do you love [WebPageTest](http://www.webpagetest.org)? We do too and made it possible to drive it using sitespeed.io. The WebPageTest data will be included in your sitespeed report.
+
+ * Uses real browsers (Firefox and Chrome)
+ * Understand and speaks HTTP/2
+ * Plugin support (write your own plugins that handles the data)
+ * Runs on Linux
+ * Works great with Graphite and Grafana
